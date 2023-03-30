@@ -2,7 +2,7 @@
 
 Este é um projeto de análise de dados do YouTube Trending Videos usando o software de visualização de dados para negócios. O objetivo do projeto é entender quais são as categorias de vídeos mais assistidas no YouTube, de onde eles vêm e como variam de região para região.
 
-## Dashboard - Melanie & Ashok
+## [Dashboard - Melanie & Ashok](https://public.tableau.com/app/profile/gabriel.aguiar/viz/Sprint11_16795994563870/Painel1?publish=yes)
 
 O dashboard criado para este projeto contém quatro gráficos principais:
 
